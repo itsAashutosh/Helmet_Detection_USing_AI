@@ -51,11 +51,10 @@ For deploying the Flask app in production, we recommend using Gunicorn, a WSGI H
 4. Access the application using the specified server IP and port.
 
 ## Contributors
-- [@supunsathsara](https://github.com/supunsathsara)
-- [@madubashinigamage](https://github.com/madubashinigamage)
-- [@MumthazDeen](https://github.com/MumthazDeen)
-- [@YuwaniN](https://github.com/YuwaniN)
-- [@sasini02](https://github.com/sasini02)
+- Aashutosh Pandey
+- Aditya Kumar
+- Chaitra
+- Deepthi m Reddy
   <br>
   <br>
 [![HelmetDetect's Contributors](https://stats.deeptrain.net/contributor/supunsathsara/HelmetDetect?theme=dark)](https://github.com/supunsathsara/HelmetDetect)
